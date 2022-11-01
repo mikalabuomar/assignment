@@ -21,7 +21,7 @@ print(
                                                                           """)
 question = input("Ask a question to the magic 8 ball \n")
 
-print("The Ball is thinking")
+print("The Ball is thinking \n")
 time.sleep(4)
 
 print(random.choice(answer))
