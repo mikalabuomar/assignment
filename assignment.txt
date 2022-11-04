@@ -41,11 +41,11 @@
 |Bad
 (>_<)
 |Disgusting
-( π - π )
+( T - T )
 |Horrible
-( π - π )
+( T - T )
 |Disagree
-( π - π )
+( T - T )
 |Disappointed
 (>_<)
 |I think you shouldn't
@@ -55,6 +55,6 @@
 |That's appalling
 (>_<)
 |Very Gross
-( π - π )
+( T - T )
 |That's depressing
 (>_<)
