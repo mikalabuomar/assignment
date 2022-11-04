@@ -5,5 +5,5 @@ It randomly pulls 30 different phrases from assignment.txt and tries answer any 
 ## Usage
 You must have assignment.txt and magic8ball.py in the same directory when running. Otherwise this will not run because the python script willl not find the text file.
 
-##Development
+## Development
 Created by Mikal Abu Omar 000784979
